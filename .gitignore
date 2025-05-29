@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE/editor settings
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data folders
+raw_data/
+outputs/
